@@ -2,7 +2,7 @@
 Project coded in Python notebook for Economía Matematica I course at the Univerisdad de Montevideo.
 Language: Spanish.<br>
 
-Object of the project was to analyse the evolution of COVID 19 in Uruguay and the posible future outcomes based on diferente variations of the SIR parameters.<br>
+Objective of the project was to analyse the evolution of COVID 19 in Uruguay and the posible future outcomes based on diferente variations of the SIR parameters.<br>
 - We look deeply into this parameters and how there changes impact the outcomes.
 - We explain in depth what is the intuition behind this parameters.
 - We input the maximum amount of IR beds available at the time in Uruguay, and given a set of parameters, we look if the hospitals would be saturated.
